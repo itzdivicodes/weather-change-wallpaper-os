@@ -1,3 +1,5 @@
+This Python script automatically changes your desktop wallpaper based on the current weather conditions in a specified city. It fetches weather data using the OpenWeatherMap API and sets an appropriate wallpaper from a predefined directory.
+
 Ensure you have the following installed:
 
 - Python 3.x
